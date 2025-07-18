@@ -1,17 +1,12 @@
 ## Welcome to Babb 👋
 
-We build business tools for all ages.
-
-Tools and protocols that last.
-
-Connections with people, companies and projects is at the <3 of business life.
-
-That's why we started our coding by re-thinking the "Virtual Contact File" format.
-
-We are researching what a Business OS would look like that could power small devices.
-
-To get our feet wet and meet a very large need for simpler business records, we are starting off by making Workpads. It's a modular system for business records based on the fundamentals of trade and exchange - debt!
-
+<h2>Taking business into orbit.</h2>
+  <h4><b>From <a href="/rust-belt">Rust Belt</a>, to <a href="company/focus/2025/03/14/building-for-remote-regions.html">Kalahari</a> to the <a href="/cosmic-commerce">Cosmos</a>, we are pioneering <a href="/tools-for-life">digital & physical tools</a> that help people work & learn.</b></h4>
+<p><a href="/workwarrior">Workwarrior</a> grows the ecosystem of open source productivity tools for individuals & industries. Get the terminal app <a href="https://github.com/babbworks/workwarrior">on GitHub</a>. </p>
+<p><a href="/workpads">Workpads</a> is a protocol & mobile app for <a href="projects/workpads/2025/03/14/logging-business-events.html">creating & sharing business records</a>, based on <a href="/bitpads">Bitpads</a>. Launching on <a href="/kaios">KaiOS</a>!</p>
+<h4>🚀 Read our <a href="/oath-for-orbit">Oath for Orbit</a>.</h4>
+<h4>🛣️ Checkout our <a href="/roadmaps">roadmaps</a>.</h4>
+<p>🌌 Why <a href="/name">Babb</a>?</p>
 <!--
 
 **Here are some ideas to get you started:**
