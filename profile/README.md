@@ -1,18 +1,3 @@
----
-description: Babb Works company README (v0.1)
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Babb Works
 
 From Rust Belt, to Kalahari, to the Cosmos, Babb builds tools for work.
